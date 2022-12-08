@@ -10,8 +10,8 @@ $arr = [1, 2, 3, 4, 5]$
 
 After $2$ rotations, $arr' = [3, 4, 5, 1, 2]$
 
-**Function Description
-**
+**Function Description**
+
 Complete the rotateLeft function in the editor below.
 
 rotateLeft has the following parameters:
