@@ -7,3 +7,4 @@ This repo holds all the hackerranks that I have completed along with their tests
 - [Breaking the Records](breaking-the-records/) - [Problem](https://www.hackerrank.com/challenges/three-month-preparation-kit-breaking-best-and-worst-records/problem)
 - [Grading Students](grading-students/) - [Problem](https://www.hackerrank.com/challenges/three-month-preparation-kit-grading/problem)
 - [Staircase](staircase/) - [Problem](https://www.hackerrank.com/challenges/staircase/problem)
+- [Left Rotation](left-rotation/) - [Problem](https://www.hackerrank.com/challenges/three-month-preparation-kit-array-left-rotation/problem)
