@@ -5,9 +5,6 @@ all: tests
 solution: solution.cpp
 	g++ -o solution solution.cpp -std=c++11 -Wno-deprecated
 
-example: solution
-	./solution < tests/in/example.txt | sed 's/: /:\n/g'
-
 case00: solution
 	./solution < tests/in/case00.txt | sed 's/: /:\n/g'
 
@@ -35,7 +32,7 @@ case07: solution
 case08: solution
 	./solution < tests/in/case08.txt | sed 's/: /:\n/g'
 
-cases: solution example case00 case01 case02 case03 case04 case05 case06 case07 case08
+cases: solution case00 case01 case02 case03 case04 case05 case06 case07 case08
 
 test: solution
 	@./solution < tests/in/$(CASE) | sed 's/: /:\n/g'
