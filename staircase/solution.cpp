@@ -1,4 +1,5 @@
-//#include <bits/stdc++.h>
+// https://www.hackerrank.com/challenges/staircase/problem
+// #include <bits/stdc++.h>
 #include <iostream>
 #include <fstream>
 #include <sstream>

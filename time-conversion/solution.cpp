@@ -1,4 +1,5 @@
-//#include <bits/stdc++.h>
+// https://www.hackerrank.com/challenges/one-month-preparation-kit-time-conversion/problem
+// #include <bits/stdc++.h>
 #include <iostream>
 #include <fstream>
 #include <sstream>
