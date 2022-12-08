@@ -4,4 +4,5 @@ This repo holds all the hackerranks that I have completed along with their tests
 
 - [Solve Me First](solve-me-first/) - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem)
 - [Birthday Cake Candles](birthday-cake-candles/) - [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
-- [Breaking the Records](breaking-the-records/)) - [Problem](https://www.hackerrank.com/challenges/three-month-preparation-kit-breaking-best-and-worst-records/problem)
+- [Breaking the Records](breaking-the-records/) - [Problem](https://www.hackerrank.com/challenges/three-month-preparation-kit-breaking-best-and-worst-records/problem)
+- [Grading Students](grading-students/) - [Problem](https://www.hackerrank.com/challenges/three-month-preparation-kit-grading/problem)
