@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# DS_STORE
+.DS_STORE
+*~
+**/.DS_STORE
+._.DS_Store
+**/._.DS_Store
+
+*.swp
+*.dSYM
+!Makefile
+*.exe
