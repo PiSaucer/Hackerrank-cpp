@@ -1,0 +1,17 @@
+title: HackerRank (C++)
+show_downloads: true
+
+remote_theme: https://github.com/pisaucer/tweakprimer
+plugins:
+- jekyll-remote-theme
+
+baseurl: /book-c-plus-plus
+url: http://PiSaucer.github.io
+
+github: [metadata]
+
+kramdown:
+  highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
