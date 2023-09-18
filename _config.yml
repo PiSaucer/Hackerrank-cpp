@@ -5,7 +5,7 @@ remote_theme: https://github.com/pisaucer/tweakprimer
 plugins:
 - jekyll-remote-theme
 
-baseurl: /book-c-plus-plus
+baseurl: /Hackerrank-cpp
 url: http://PiSaucer.github.io
 
 github: [metadata]
