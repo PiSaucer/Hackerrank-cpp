@@ -1,6 +1,6 @@
 # Hackerrank (C++ Version)
 
-This repo holds the hacker rank assignments that I have completed with their directions, test cases, and template solutions. THERE ARE NO ANSWERS in this repo, it just custom makefiles along with case tests to ensure the code passes. It's has the assignments as the website however it works offline, it you locally clone/fork it. I encourage you to download this repo locally to be able to run the make commands with ease.
+This repo holds the hacker rank assignments that I have completed with their directions, test cases, and template solutions. THERE ARE NO ANSWERS in this repo, it just custom makefiles along with case tests to ensure the code passes. It has the assignments as the website, however, it works offline if you locally clone/fork it. I encourage you to download this repo locally to be able to run the make commands with ease.
 
 - [Solve Me First](solve-me-first/) - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem)
 - [Birthday Cake Candles](birthday-cake-candles/) - [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
@@ -18,7 +18,7 @@ This project is for educational purposes only.
 
 ## Copyrighted Content Onsite
 
-This project's infrastructure relies heavily on user content creation, and we understand that some times users may not fully understand copyright laws. That is why we ask that any person(s) finding copyrighted material onsite should submit an E-Mail to pisaucer@gmail.com containing a URL for the offending material in particular and we will remove it as soon as possible, with moderation taken on user.
+This project's infrastructure relies heavily on user content creation, and we understand that sometimes users may not fully understand copyright laws. That is why we ask that any person(s) finding copyrighted material onsite should submit an E-Mail to pisaucer@gmail.com containing a URL for the offending material in particular and we will remove it as soon as possible, with moderation taken on the user.
 
 # Contributing
 
@@ -34,10 +34,10 @@ present and future rights to this software under copyright law.
 
 # Fair Use
 
-Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.
+Copyright Disclaimer Under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education, and research.
 
 Fair use is a use permitted by copyright statute that might otherwise be infringing.
 
 ### Fair Use Definition
 
-Fair use is a doctrine in United States copyright law that allows limited use of copyrighted material without requiring permission from the rights holders, such as commentary, criticism, news reporting, research, teaching or scholarship. It provides for the legal, non-licensed citation or incorporation of copyrighted material in another author’s work under a four-factor balancing test.
+Fair use is a doctrine in United States copyright law that allows limited use of copyrighted material without requiring permission from the rights holders, such as commentary, criticism, news reporting, research, teaching, or scholarship. It provides for the legal, non-licensed citation or incorporation of copyrighted material in another author’s work under a four-factor balancing test.
