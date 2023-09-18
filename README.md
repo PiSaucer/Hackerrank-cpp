@@ -1,6 +1,6 @@
 # Hackerrank (C++ Version)
 
-This repo holds the hacker rank assignments that I have completed with their directions, test cases, and template solutions. THERE ARE NO ANSWERS in this repo, it just custom makefiles along with case tests to ensure the code passes. It has the assignments as the website, however, it works offline if you locally clone/fork it. I encourage you to download this repo locally to be able to run the make commands with ease.
+This repo holds the hacker rank assignments that I have completed with their directions, test cases, and template solutions. **THERE ARE NO ANSWERS** in this repo, it just custom makefiles along with case tests to ensure the code passes. It has the assignments as the website, however, it works offline if you locally clone/fork it. I encourage you to download this repo locally to be able to run the make commands with ease.
 
 - [Solve Me First](solve-me-first/) - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem)
 - [Birthday Cake Candles](birthday-cake-candles/) - [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
@@ -24,7 +24,7 @@ This project's infrastructure relies heavily on user content creation, and we un
 
 If you find any problem(s) in the repo, feel free to submit an issue. This includes stuff like vulnerabilities, or even the most trivial issues (such as typoes.) If you know how to fix an issue, feel free to make a pull request for the issue. If you would like to suggest a feature or change, submit it as an issue as well; it will be given the appropriate tag once we have seen it. We ask that all pull request authors add this paragraph to the end of their contribution's details so as to retain the repo as 100% public domain software.
 
-```
+```txt
 I dedicate any and all copyright interest in this software to the
 public domain. I make this dedication for the benefit of the public at
 large and to the detriment of my heirs and successors. I intend this
